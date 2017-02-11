@@ -28,7 +28,7 @@ var articles={
                 </p>`
 },
 'article-two':{
-    title:'article-two'
+    title:'article-two',
     heading:'article',
     date:'september 9',
     content:`
@@ -48,7 +48,7 @@ var articles={
                     this is the contentthis is the contentthis is the content
                     this is the contentthis is the contentthis is the contentthis is the content
                 </p>`},
-'article-three':{ title:'article-three'
+'article-three':{ title:'article-three',
     heading:'article',
     date:'september 4',
     content:`
